@@ -1,0 +1,4 @@
+#IP 
+Laborator6
+
+
